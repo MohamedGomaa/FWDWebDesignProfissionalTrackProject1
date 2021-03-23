@@ -26,4 +26,6 @@ this contains CSS code
 
 3 - app.js : 
 this contains my JavaScript code which has two event listeners (scroll and click) 
+when scrolling the active-class moved to the elemnt which shown on the monitor,
+when clicking on a li element on the navBar this moves the screen to the corresponding section 
 and has buildNav function to build navbar menu dynamechally
